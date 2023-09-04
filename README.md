@@ -20,4 +20,5 @@ Welcome to the Prompt Engineering Handbook, a comprehensive guide to mastering t
 5. [Appendices](docs/appendices/01-resources.md)
     - [Resources](docs/appendices/01-resources.md)
     - [Further Reading](docs/appendices/02-further-reading.md)
+    - [Glossery](docs/appendices/03-glossary.md)
 
